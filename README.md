@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeeva Balraj</h1>
-<h3 align="center">Skilled in both front-end and back-end development, with a passion for user experience and performance.</h3>
+<h3 align="center">Passionate about building applications that adapt to change and grow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeeva-sd&label=Profile%20views&color=0e75b6&style=flat" alt="jeeva-sd" /> </p>
 
