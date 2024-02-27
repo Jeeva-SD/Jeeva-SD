@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **jeevasubash64@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bkKx9laoRCT-vkdnTCleo9m402CN0KBW/view?pli=1](https://drive.google.com/file/d/1bkKx9laoRCT-vkdnTCleo9m402CN0KBW/view?pli=1)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jeeva balraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeeva balraj" height="30" width="40" /></a>
